@@ -1,4 +1,4 @@
-package com.taskthree;
+package task3;
 
 /**
  *

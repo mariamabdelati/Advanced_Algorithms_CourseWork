@@ -1,4 +1,4 @@
-package com.tasktwo;
+package task2;
 
 public class RedBlackTree {
     private Node root;

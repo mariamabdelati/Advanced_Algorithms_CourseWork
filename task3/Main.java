@@ -1,4 +1,4 @@
-package com.taskthree;
+package task3;
 
 import java.util.Arrays;
 import java.util.InputMismatchException;
